@@ -5,4 +5,3 @@ for _ in range(n):
     s += y-x
 print('%.3f' % (s/n))
 
-  
