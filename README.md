@@ -1,7 +1,7 @@
 # Kattis-Problems
 
 Hi!
-This is the first-year Manav writing directly to you. How's it going?
+This is first-year Manav writing directly to you. How's it going?
 Anyways, I just wanted to try my hand at Problem Solving and did some Easy level Qs. 
 Had fun. 
 
